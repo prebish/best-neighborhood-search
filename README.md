@@ -1,3 +1,10 @@
 # Best Neighborhood Search
 
-Finding the best neighborhood for __
+Finding the best neighborhood in pittsburgh, for ducks?
+
+
+# Submetrics
+- Most water nearby
+- Most places to eat
+- Most Parks
+
